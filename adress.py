@@ -1,5 +1,5 @@
 
 '''Change the config settings to your own'''
 
-adr = 'kontukotingala@gmail.com'
-psw = 'Qwerty1234#'
+adr = 'example_email@gmail.com'
+psw = 'example_password'
